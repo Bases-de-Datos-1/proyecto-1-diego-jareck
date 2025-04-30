@@ -4,5 +4,7 @@
 Diego Araya Ureña : 2023071310
 Jareck Levell Cordero: 2021069542
 
+Revisar Diagramas anexos para mejor comprensión
+
 ### Estado del proyecto: Bueno
 
